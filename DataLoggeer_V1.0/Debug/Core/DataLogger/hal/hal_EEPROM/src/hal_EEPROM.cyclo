@@ -1,0 +1,10 @@
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:39:20:HAL_EEPROM_WriteByte	2
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:67:20:HAL_EEPROM_WritePage	4
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:103:20:HAL_EEPROM_ReadByte	2
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:131:20:HAL_EEPROM_ReadPage	4
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:167:20:HAL_EEPROM_Write	2
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:191:20:HAL_EEPROM_Read	2
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:212:21:HAL_EEPROM_SaveLastAddress	2
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:229:20:HAL_EEPROM_LoadLastAddress	2
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:251:19:HAL_EEPROM_Write_DateTime	3
+../Core/DataLogger/hal/hal_EEPROM/src/hal_EEPROM.c:290:20:HAL_EEPROM_Stream_Data	5

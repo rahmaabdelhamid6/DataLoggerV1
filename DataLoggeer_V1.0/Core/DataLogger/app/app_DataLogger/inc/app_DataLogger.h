@@ -1,0 +1,13 @@
+/*
+ * app_DataLogger.h
+ *
+ *  Created on: Mar 23, 2025
+ *      Author: CairoProgramAdmin
+ */
+
+#ifndef DATALOGGER_APP_APP_DATALOGGER_INC_APP_DATALOGGER_H_
+#define DATALOGGER_APP_APP_DATALOGGER_INC_APP_DATALOGGER_H_
+
+
+
+#endif /* DATALOGGER_APP_APP_DATALOGGER_INC_APP_DATALOGGER_H_ */

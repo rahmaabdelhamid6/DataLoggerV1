@@ -1,0 +1,2 @@
+../Core/DataLogger/hal/hal_PC/src/hal_PC.c:39:16:HAL_PC_read	1
+../Core/DataLogger/hal/hal_PC/src/hal_PC.c:57:16:HAL_PC_write	2

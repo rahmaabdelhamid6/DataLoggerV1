@@ -1,0 +1,8 @@
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:28:20:HAL_BME280_TrimmingRead	64	static
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:85:20:HAL_BME280_SensorConfig	48	static
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:173:20:HAL_BME280_ReadRawData	40	static
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:214:20:HAL_BME280_WakeUPSensor	32	static
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:247:20:HAL_BME280_Measure	24	static
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:294:9:HAL_BME280_compensate_T_int32	32	static
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:309:10:HAL_BME280_compensate_P_int64	328	static
+../Core/DataLogger/hal/hal_BME280/src/hal_BME280.c:365:10:HAL_BME280_compensate_H_int32	24	static

@@ -1,0 +1,4 @@
+../Core/DataLogger/hal/hal_RTC/src/hal_RTC.c:37:17:HAL_RTC_init	1
+../Core/DataLogger/hal/hal_RTC/src/hal_RTC.c:49:17:HAL_RTC_ValidateTimeDate	4
+../Core/DataLogger/hal/hal_RTC/src/hal_RTC.c:101:17:HAL_RTC_Get_TimeDate	1
+../Core/DataLogger/hal/hal_RTC/src/hal_RTC.c:116:17:HAL_RTC_SetWakeUpTime	2

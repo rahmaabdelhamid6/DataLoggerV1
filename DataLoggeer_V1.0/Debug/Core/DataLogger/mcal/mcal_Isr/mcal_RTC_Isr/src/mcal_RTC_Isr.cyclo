@@ -1,0 +1,2 @@
+../Core/DataLogger/mcal/mcal_Isr/mcal_RTC_Isr/src/mcal_RTC_Isr.c:30:6:MCAL_ISR_RTC_WakeUpCallback	1
+../Core/DataLogger/mcal/mcal_Isr/mcal_RTC_Isr/src/mcal_RTC_Isr.c:38:6:HAL_RTCEx_WakeUpTimerEventCallback	2

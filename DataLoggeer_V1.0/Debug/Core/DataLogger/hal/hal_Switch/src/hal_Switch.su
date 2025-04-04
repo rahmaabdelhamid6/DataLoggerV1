@@ -1,0 +1,3 @@
+../Core/DataLogger/hal/hal_Switch/src/hal_Switch.c:33:18:HAL_Switch_Init	24	static
+../Core/DataLogger/hal/hal_Switch/src/hal_Switch.c:47:18:HAL_Switch_SetStatus	24	static
+../Core/DataLogger/hal/hal_Switch/src/hal_Switch.c:67:18:HAL_Switch_GetStatus	24	static

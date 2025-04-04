@@ -44,7 +44,7 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
-//smal change
+//small change
 /* USER CODE END PTD */
 
 /* Private define ------------------------------------------------------------*/
